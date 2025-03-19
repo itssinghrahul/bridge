@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ['robust-gerbil-129.convex.cloud']
+    domains: ['glad-badger-627.convex.cloud']
   }
 }
 
